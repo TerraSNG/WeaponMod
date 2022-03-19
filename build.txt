@@ -1,0 +1,3 @@
+author = woodman
+version = 0.1
+displayName = WeaponMod by woodman
