@@ -18,6 +18,6 @@
 
 # Быстрая установка
 
-## [Скачать мод для Android](https://github.com/TerraSNG/WeaponMod/releases/tag/Test) - Установка через TL Pro или Terraria Manager.
+## 📥 [Скачать мод для Android](https://github.com/TerraSNG/WeaponMod/releases/tag/Test) - Установка через TL Pro или Terraria Manager.
 
-## [Скачать мод для Windows]() - Установка через tModLauncher.
+## 📥 [Скачать мод для Windows]() - Установка через tModLauncher.
